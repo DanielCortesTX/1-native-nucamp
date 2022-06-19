@@ -1,4 +1,5 @@
 node_modules/
+grading/
 .expo/
 dist/
 npm-debug.*
